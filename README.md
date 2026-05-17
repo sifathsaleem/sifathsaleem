@@ -8,9 +8,42 @@
   <img src="https://komarev.com/ghpvc/?username=sifathsaleem&label=Profile%20views&color=cc3300&style=flat" alt="profile views" />
 </p>
 
+<h2>Frontend Developer | React JS | JavaScript | HTML & CSS | CS Student</h2>
+
+<br/>
+
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&center=true&vCenter=true&color=FF4500&width=700&lines=Turning+%3Ccode%3E+into+experiences+%F0%9F%9A%80;Frontend+Developer+%7C+React+%26+JavaScript;CS+Student+%40+University+of+the+People;Open+to+Intern+%26+Junior+Frontend+Roles" alt="typing svg" />
+  "A passionate and self-driven frontend developer with strong foundations in building responsive, interactive web applications. I enjoy turning ideas into real, working products and continuously improving my skills to align with modern web standards."
 </p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Most Used Technologies
+
+<br/>
+
+| | | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48"/><br/>**HTML5** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48"/><br/>**CSS3** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48"/><br/>**JavaScript** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48"/><br/>**React JS** | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48"/><br/>**Tailwind** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48"/><br/>**Bootstrap** | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48"/><br/>**Figma** |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48"/><br/>**Git** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48"/><br/>**GitHub** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48"/><br/>**Node.js** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48"/><br/>**Express** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48"/><br/>**MongoDB** | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48"/><br/>**REST APIs** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48"/><br/>**VS Code** |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Live Projects
+
+<br/>
+
+🎬 [Movie Finder App](https://cinepro-slm.netlify.app) &nbsp;|&nbsp;
+⌨️ [Typing Speed Tester](https://typing-speed-checker-slm.netlify.app) &nbsp;|&nbsp;
+📅 [Date Picker](https://datepicker-slm.netlify.app)
 
 </div>
 
@@ -20,59 +53,11 @@
 
 I'm a **Frontend Developer** and **CS student at the University of the People**, based in Sri Lanka 🇱🇰.
 
-I build clean, responsive, and interactive web applications using modern frontend technologies. I'm passionate about turning ideas into real, working products — and I'm always learning.
-
 - 🎓 Pursuing **BSc in Computer Science** at University of the People
 - 💻 Skilled in **React.js, JavaScript, HTML5, CSS3**
 - 🌱 Currently exploring **Node.js, Express.js & MongoDB Atlas**
 - 🔍 Open to **Frontend Intern & Junior Developer** roles
 - 📬 Reach me at **saleemsifath@gmail.com**
-
----
-
-## 🚀 What I Do
-
-- Build responsive and mobile-friendly web interfaces
-- Create interactive UI components with React.js
-- Integrate REST APIs into frontend applications
-- Write clean vanilla JavaScript without relying on libraries
-- Design with Figma and implement pixel-perfect layouts
-
----
-
-## 🎨 Frontend
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" title="HTML5" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" title="CSS3" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" title="JavaScript" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" title="React JS" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="42" height="42" title="Bootstrap" /> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42" title="Tailwind CSS" /> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42" height="42" title="Figma" /> &nbsp;
-</p>
-
----
-
-## 🛠️ Backend & Database (Learning)
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42" title="Node.js" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="42" height="42" title="Express.js" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" title="MongoDB Atlas" /> &nbsp;
-</p>
-
----
-
-## 🔧 Tools & Workflow
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-cc3300?style=for-the-badge&logo=git&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-1a0000?style=for-the-badge&logo=github&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Netlify-cc3300?style=for-the-badge&logo=netlify&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/VS%20Code-3d0000?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/REST%20APIs-1a0000?style=for-the-badge&logoColor=white" /> &nbsp;
-</p>
 
 ---
 
