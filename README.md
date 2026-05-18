@@ -25,7 +25,7 @@
 <br>
 
 <h2 align="center">
-<img  style="vertical-align: middle; margin-right: -6px; margin-top: -5px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGd4aWVnaWZ3bmdhdmtlYzd0NjNydWFwdHNjdWF4YjRmN25tYnpiNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SvllNdiFLPT0Z1SWoZ/giphy.gif" width ="35"> Most Used Technologies
+<img  style="vertical-align: middle;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGd4aWVnaWZ3bmdhdmtlYzd0NjNydWFwdHNjdWF4YjRmN25tYnpiNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SvllNdiFLPT0Z1SWoZ/giphy.gif" width ="35"> Most Used Technologies
 </h2>
 <table align="center">
 <tr>
