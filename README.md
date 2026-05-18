@@ -15,7 +15,7 @@
       <p>Left side text goes here.</p>
     </td>
     <td width="50%">
-      <p>Right side text goes here.</p>
+      <p><img src="https://raw.githubusercontent.com/sifathsaleem/sifathsaleem/refs/heads/main/assets/man_coding.gif"/></p>
     </td>
   </tr>
 </table>
