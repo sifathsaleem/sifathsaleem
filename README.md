@@ -35,7 +35,7 @@
   </tr>
 </h2>
 
-<table align="center">
+<table align="center" border="0">
 <tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=react" width="40"/><br>
