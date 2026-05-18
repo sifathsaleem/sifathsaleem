@@ -2,21 +2,6 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=500&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=React+Frontend+Developer;Building+Modern+Web+Apps;Computer+Science+Student;Learning+Every+Day" alt="Typing SVG" /></a></p>
 
-<img align="left" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU" width="265" height="270" />
-```css
-> root :~ whoami 
-```
-```python
-> I am a Data Scientist and a ML | DL Developer 💻
-> I have a Bachelors in Computer Science from KTU 📚 - kerala,India
-> I have a strong interest in Data Science and AI 📝
-> Working on Deep Learning & Machine Learning 🔭
-> Learning about DL , ML and mobile application development 👨‍💻 
-> Interested in Full Stack Machine Learning Application development 🚩
-> I write articles on "https://medium.com/@adilrahman_1337"
-
-> Committed to lifelong learning 💖
-```
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
