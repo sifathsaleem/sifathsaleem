@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hi, I'm Sifath Saleem</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mozilla+Text&weight=600&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=React+Frontend+Developer;Computer+Science+Student;Building+Industry-Ready+Projects" alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mozilla+Text&weight=600&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=React+Frontend+Developer;Computer+Science+Student;Building+Industry-Ready+Projects" alt="Typing SVG" /></a></p>
+
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <p align="center">
