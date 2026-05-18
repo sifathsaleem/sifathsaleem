@@ -3,6 +3,15 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=500&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=React+Frontend+Developer;Building+Modern+Web+Apps;Computer+Science+Student;Learning+Every+Day" alt="Typing SVG" /></a></p>
 
+<pre>
+💻 Learning full stack and other programming languages
+🌟 Main languages: c++, JavaScript
+🚩 Interested in Full Stack
+⚡ Fun fact Coding is a passion and not profession
+🤝 I’m looking for help with Backend Design
+👯 I’m looking to work on some best projects so i can learn new skills
+</pre>
+
 
 
 <p align="center">
