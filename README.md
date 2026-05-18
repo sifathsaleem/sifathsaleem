@@ -8,12 +8,12 @@
 
 <h2 align="center">Frontend Developer | React JS | JavaScript | HTML & CSS | CS Student</h2>
 
-
 <p  align="center">
   "A passionate and self-driven frontend developer with strong foundations in building responsive, interactive web applications. I enjoy turning ideas into real, working products and continuously improving my skills to align with modern web standards."
 </p>
 
 ---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-React%20%26%20JavaScript-0a66c2?style=flat&logo=react&logoColor=white" />
   &nbsp;
@@ -22,12 +22,11 @@
   <img src="https://img.shields.io/badge/Focus-Building%20Projects-0a66c2?style=flat&logo=hammer&logoColor=white" />
 </p>
 
-
 <br>
 
-
-<h2 align="center"> 🚀 Most Used Technologies </h2>
-
+<h2 align="center">
+<img  style="vertical-align: middle; margin-right: -6px; margin-top: -5px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGd4aWVnaWZ3bmdhdmtlYzd0NjNydWFwdHNjdWF4YjRmN25tYnpiNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SvllNdiFLPT0Z1SWoZ/giphy.gif" width ="35"> Most Used Technologies
+</h2>
 <table align="center">
 <tr>
 <td align="center">
@@ -50,7 +49,6 @@
 <sub>HTML</sub>
 </td>
 
-
 <td align="center">
 <img src="https://skillicons.dev/icons?i=jquery" width="40"/><br>
 <sub>Jquery</sub>
@@ -60,7 +58,6 @@
 <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>
 <sub>Tailwind</sub>
 </td>
-
 
 </tr>
 
@@ -99,71 +96,40 @@
 </tr>
 </table>
 
-
 <!-- profile views -->
 <!-- <p>
   <img src="https://komarev.com/ghpvc/?username=sifathsaleem&label=Profile%20views&color=cc3300&style=flat" alt="profile views" />
 </p> -->
 
-<br/>
+<br>
 
-</div>
-
----
-
-
-
----
-
-<div align="center">
-
-## 🌐 Live Projects
-
-<br/>
-
-🎬 [Movie Finder App](https://cinepro-slm.netlify.app) &nbsp;|&nbsp;
-⌨️ [Typing Speed Tester](https://typing-speed-checker-slm.netlify.app) &nbsp;|&nbsp;
-📅 [Date Picker](https://datepicker-slm.netlify.app)
-
-</div>
-
----
-
-## 👋 About Me
-
-I'm a **Frontend Developer** and **CS student at the University of the People**, based in Sri Lanka 🇱🇰.
-
-- 🎓 Pursuing **BSc in Computer Science** at University of the People
-- 💻 Skilled in **React.js, JavaScript, HTML5, CSS3**
-- 🌱 Currently exploring **Node.js, Express.js & MongoDB Atlas**
-- 🔍 Open to **Frontend Intern & Junior Developer** roles
-- 📬 Reach me at **saleemsifath@gmail.com**
-
----
-
-## 💼 Projects
+<h2 align="center">
+<img  style="vertical-align: middle; margin-top: -5px;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDliNzU1bTB2c3lqdHFkZnZqOTNsc3libW5ma2dqN2pzajN5ZjA5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="25"> Projects </h2>
 
 ### 🎬 Movie Finder App
+
 Built a responsive movie search application using **React.js** and the **TMDB API**, featuring real-time search, dynamic content rendering, and a mobile-friendly UI.
 
-[![GitHub](https://img.shields.io/badge/GitHub-1a0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sifathsaleem/cinepro-project)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-cc3300?style=for-the-badge&logo=netlify&logoColor=white)](https://cinepro-slm.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-062038?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sifathsaleem/cinepro-project)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-1e90ff?style=for-the-badge&logo=netlify&logoColor=white)](https://cinepro-slm.netlify.app)
 
 ---
 
 ### ⌨️ Typing Speed Tester
+
 Developed an interactive typing speed test app with **real-time WPM calculation**, accuracy tracking, and instant performance feedback — built with vanilla JavaScript.
 
-[![GitHub](https://img.shields.io/badge/GitHub-1a0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sifathsaleem/Typing-Speed-Test)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-cc3300?style=for-the-badge&logo=netlify&logoColor=white)](https://typing-speed-checker-slm.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-062038?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sifathsaleem/Typing-Speed-Test)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-1e90ff?style=for-the-badge&logo=netlify&logoColor=white)](https://typing-speed-checker-slm.netlify.app)
 
 ---
 
 ### 📅 Date Picker
+
 Engineered a custom date picker component **from scratch** with interactive calendar navigation and smooth date selection — no third-party library used.
 
-[![GitHub](https://img.shields.io/badge/GitHub-1a0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sifathsaleem/Date-picker)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-cc3300?style=for-the-badge&logo=netlify&logoColor=white)](https://datepicker-slm.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-062038?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sifathsaleem/Date-picker)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-1e90ff?style=for-the-badge&logo=netlify&logoColor=white)](https://datepicker-slm.netlify.app)
 
 ---
 
