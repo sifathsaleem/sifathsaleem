@@ -3,7 +3,7 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=500&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=React+Frontend+Developer;Building+Modern+Web+Apps;Computer+Science+Student;Learning+Every+Day" alt="Typing SVG" /></a></p>
 
-
+<hr>
 <pre>
 🎓 Pursuing BSc in Computer Science at University of the People
 💻 Skilled in React.js, JavaScript, HTML5, CSS3
@@ -11,7 +11,7 @@
 🔍 Open to Frontend Intern & Junior Developer roles
 👯 I’m looking to work on some best projects so i can learn new skills
 </pre>
-
+<hr>
 
 
 <p align="center">
