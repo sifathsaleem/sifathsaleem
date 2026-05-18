@@ -2,11 +2,11 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-React%20%26%20JavaScript-0a66c2?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-React%20%26%20JavaScript-0a66c2?style=flat&logo=react&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-CS%20Fundamentals-0a66c2?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-CS%20Fundamentals-0a66c2?style=flat&logo=bookstack&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Building%20Projects-0a66c2?style=for-the-badge&logo=hammer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Building%20Projects-0a66c2?style=flat&logo=hammer&logoColor=white" />
 </p>
 
 <div align="center">
