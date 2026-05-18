@@ -1,9 +1,10 @@
-<!-- <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p> -->
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+
 <h1 align="center"><b>Hi, I'm Sifath Saleem</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=500&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=React+Frontend+Developer;Building+Modern+Web+Apps;Computer+Science+Student;Learning+Every+Day" alt="Typing SVG" /></a></p>
 
-<hr>
+---
 
 <h2 align="center">Frontend Developer | React JS | JavaScript | HTML & CSS | CS Student</h2>
 
@@ -40,6 +41,17 @@
 </td>
 
 <td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="40"/><br>
+<sub>CSS</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="40"/><br>
+<sub>HTML</sub>
+</td>
+
+
+<td align="center">
 <img src="https://skillicons.dev/icons?i=jquery" width="40"/><br>
 <sub>Jquery</sub>
 </td>
@@ -50,28 +62,18 @@
 </td>
 
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postman" width="40"/><br>
-<sub>Rest APIs</sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="40"/><br>
-<sub>HTML</sub>
-</td>
-
 </tr>
 
 <tr>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="40"/><br>
-<sub>CSS</sub>
+<img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br>
+<sub>Bootstrap</sub>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br>
-<sub>Bootstrap</sub>
+<img src="https://skillicons.dev/icons?i=postman" width="40"/><br>
+<sub>Rest APIs</sub>
 </td>
 
 <td align="center">
@@ -97,19 +99,11 @@
 </tr>
 </table>
 
-<pre>
-🎓 Pursuing BSc in Computer Science at University of the People
-💻 Skilled in React.js, JavaScript, HTML5, CSS3
-🌱 Currently exploring Node.js, Express.js & MongoDB Atlas
-🔍 Open to Frontend Intern & Junior Developer roles
-👯 I’m looking to work on some best projects so i can learn new skills
-</pre>
-<hr>
 
-
-<p>
+<!-- profile views -->
+<!-- <p>
   <img src="https://komarev.com/ghpvc/?username=sifathsaleem&label=Profile%20views&color=cc3300&style=flat" alt="profile views" />
-</p>
+</p> -->
 
 <br/>
 
@@ -117,18 +111,7 @@
 
 ---
 
-<div align="center">
 
-## 🚀 Most Used Technologies
-
-<br/>
-
-| | | | | | | |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48"/><br/>HTML5 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48"/><br/>**CSS3** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48"/><br/>**JavaScript** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48"/><br/>**React JS** | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48"/><br/>**Tailwind** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48"/><br/>**Bootstrap** | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48"/><br/>**Figma** |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48"/><br/>**Git** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48"/><br/>**GitHub** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48"/><br/>**Node.js** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48"/><br/>**Express** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48"/><br/>**MongoDB** | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48"/><br/>**REST APIs** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48"/><br/>**VS Code** |
-
-</div>
 
 ---
 
