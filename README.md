@@ -25,7 +25,7 @@
 <br>
 
 <h2 align="center">
-<img style="vertical-align: middle; margin-top: -5px;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3huc3Y5dmg5dXh4enBnbmxqdDdrbGRhaDEydmNlejg1dDM1cm1rdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cwWA23tTLhJ0AJXFMS/giphy.gif" width ="35">Most Used Technologies
+<img style="vertical-align: middle; margin-top: -5px;" align="absmiddle" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3huc3Y5dmg5dXh4enBnbmxqdDdrbGRhaDEydmNlejg1dDM1cm1rdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cwWA23tTLhJ0AJXFMS/giphy.gif" width ="35">Most Used Technologies
 </h2>
 
 <table align="center" border="0">
@@ -105,7 +105,7 @@
 <br>
 
 <h2 align="center">
-<img  style="vertical-align: middle; margin-top: -50px !important;" align="absmiddle"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDliNzU1bTB2c3lqdHFkZnZqOTNsc3libW5ma2dqN2pzajN5ZjA5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="25"> Projects </h2>
+<img  style="vertical-align: middle;" align="absmiddle" align="absmiddle"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDliNzU1bTB2c3lqdHFkZnZqOTNsc3libW5ma2dqN2pzajN5ZjA5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="25"> Projects </h2>
 
 ### 🎬 Movie Finder App
 
