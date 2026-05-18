@@ -25,7 +25,7 @@
 <br>
 
 <h2 align="center">
-<img style="vertical-align: middle; margin-top: -5px;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3huc3Y5dmg5dXh4enBnbmxqdDdrbGRhaDEydmNlejg1dDM1cm1rdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cwWA23tTLhJ0AJXFMS/giphy.gif" width ="35">Most Used Technologies
+<img style="vertical-align: middle; margin-top: -5px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjgyNmRncmpwemNzN3Fmdm81a2M1M3hyZWZrdjgyYXFlYzN1Z25pYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cwWA23tTLhJ0AJXFMS/giphy.gif" width ="35">Most Used Technologies
 </h2>
 
 <table align="center">
@@ -134,9 +134,20 @@ Engineered a custom date picker component **from scratch** with interactive cale
 
 ---
 
-## 📊 GitHub Stats
+<br>
 
-<p align="center">
+<h2 align="center">
+<img style="vertical-align: middle; margin-top: -5px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnY5Z3g3MWdwMTBndDA0MnZnMm13Z2c5NzVxb2Nmcmp3a2oxN3l3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width ="25"> Connect with me
+</h2>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sifathsaleem/)
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/warengonzagaofficial)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/warengonzaga)
+[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/warengonzaga)
+[![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/warengonzaga)
+[![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-%23ff813f.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoff.ee/warengonzaga)
+
+<!-- <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sifathsaleem&show_icons=true&theme=tokyonight&hide_border=true&icon_color=cc3300&title_color=ff4500" />
 </p>
 
@@ -166,4 +177,4 @@ Engineered a custom date picker component **from scratch** with interactive cale
 
 <p align="center">
   <strong>Turning &lt;code&gt; into experiences 🚀</strong>
-</p>
+</p> -->
