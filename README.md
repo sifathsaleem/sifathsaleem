@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:3d0000,100:cc3300&height=200&section=header&text=Sifath%20Saleem&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20%7C%20CS%20Student&descAlignY=58&descColor=ff4500" width="100%" />
-</p>
+<h1 align="center"><b>Hi, I'm Sifath Saleem </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <div align="center">
 
