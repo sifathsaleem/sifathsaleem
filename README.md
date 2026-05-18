@@ -1,8 +1,5 @@
-<h1 align="center"><b>Hi, I'm <span style="color: #0a66c2;">Sifath Saleem</span> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Sifath Saleem</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h1 align="center">
-  <b>Hi, I'm <img src="https://demolab.com" alt="Sifath Saleem" align="center"></b>
-  <img src="https://giphy.com" width="35">
-</h1>
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <p align="center">
