@@ -9,6 +9,9 @@
   <img src="https://img.shields.io/badge/Focus-Building%20Projects-0a66c2?style=flat&logo=hammer&logoColor=white" />
 </p>
 
+$\color{cyan}{\text{This is the closest standard color available via LaTeX math blocks}}$
+
+
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <div style="flex: 1; padding: 10px;">
     <h3>Feature Title</h3>
