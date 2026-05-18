@@ -5,11 +5,10 @@
 
 <hr>
 <pre>
-💻 Learning full stack and other programming languages
-🌟 Main languages: c++, JavaScript
-🚩 Interested in Full Stack
-⚡ Fun fact Coding is a passion and not profession
-🤝 I’m looking for help with Backend Design
+🎓 Pursuing BSc in Computer Science at University of the People
+💻 Skilled in React.js, JavaScript, HTML5, CSS3
+🌱 Currently exploring Node.js, Express.js & MongoDB Atlas
+🔍 Open to Frontend Intern & Junior Developer roles
 👯 I’m looking to work on some best projects so i can learn new skills
 </pre>
 <hr>
