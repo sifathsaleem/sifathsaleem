@@ -9,6 +9,17 @@
   <img src="https://img.shields.io/badge/Focus-Building%20Projects-0a66c2?style=flat&logo=hammer&logoColor=white" />
 </p>
 
+<table border="0">
+  <tr>
+    <td width="50%">
+      <p>Left side text goes here.</p>
+    </td>
+    <td width="50%">
+      <p>Right side text goes here.</p>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
 
 <p>
