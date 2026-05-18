@@ -4,6 +4,99 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=500&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=React+Frontend+Developer;Building+Modern+Web+Apps;Computer+Science+Student;Learning+Every+Day" alt="Typing SVG" /></a></p>
 
 <hr>
+
+<h2 align="center">Frontend Developer | React JS | JavaScript | HTML & CSS | CS Student</h2>
+
+
+<p  align="center">
+  "A passionate and self-driven frontend developer with strong foundations in building responsive, interactive web applications. I enjoy turning ideas into real, working products and continuously improving my skills to align with modern web standards."
+</p>
+
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-React%20%26%20JavaScript-0a66c2?style=flat&logo=react&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-CS%20Fundamentals-0a66c2?style=flat&logo=bookstack&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Building%20Projects-0a66c2?style=flat&logo=hammer&logoColor=white" />
+</p>
+
+
+<br>
+
+
+<h2 align="center"> 🚀 Most Used Technologies </h2>
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="40"/><br>
+<sub>React</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="40"/><br>
+<sub>JavaScript</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=jquery" width="40"/><br>
+<sub>Jquery</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>
+<sub>Tailwind</sub>
+</td>
+
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="40"/><br>
+<sub>Rest APIs</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="40"/><br>
+<sub>HTML</sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="40"/><br>
+<sub>CSS</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br>
+<sub>Bootstrap</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="40"/><br>
+<sub>Git</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="40"/><br>
+<sub>GitHub</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma" width="40"/><br>
+<sub>Figma</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>
+<sub>VS Code</sub>
+</td>
+
+</tr>
+</table>
+
 <pre>
 🎓 Pursuing BSc in Computer Science at University of the People
 💻 Skilled in React.js, JavaScript, HTML5, CSS3
@@ -14,37 +107,11 @@
 <hr>
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-React%20%26%20JavaScript-0a66c2?style=flat&logo=react&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-CS%20Fundamentals-0a66c2?style=flat&logo=bookstack&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Building%20Projects-0a66c2?style=flat&logo=hammer&logoColor=white" />
-</p>
-
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <div style="flex: 1; padding: 10px;">
-    <h3>Feature Title</h3>
-    <p>This text describes the image on the right.</p>
-  </div>
-  <div style="flex: 1; padding: 10px;">
-    <img src="images/screenshot.png" alt="Feature Image" width="100%">
-  </div>
-</div>
-
-<div align="center">
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=sifathsaleem&label=Profile%20views&color=cc3300&style=flat" alt="profile views" />
 </p>
 
-<h2>Frontend Developer | React JS | JavaScript | HTML & CSS | CS Student</h2>
-
 <br/>
-
-<p>
-  "A passionate and self-driven frontend developer with strong foundations in building responsive, interactive web applications. I enjoy turning ideas into real, working products and continuously improving my skills to align with modern web standards."
-</p>
 
 </div>
 
