@@ -9,16 +9,15 @@
   <img src="https://img.shields.io/badge/Focus-Building%20Projects-0a66c2?style=flat&logo=hammer&logoColor=white" />
 </p>
 
-<table border="0" align="center" width="100%">
-  <tr>
-    <td width="50%">
-      <p>Left side text goes here.</p>
-    </td>
-    <td width="50%">
-      <p><img src="https://raw.githubusercontent.com/sifathsaleem/sifathsaleem/refs/heads/main/assets/man_coding.gif"/></p>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <div style="flex: 1; padding: 10px;">
+    <h3>Feature Title</h3>
+    <p>This text describes the image on the right.</p>
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    <img src="images/screenshot.png" alt="Feature Image" width="100%">
+  </div>
+</div>
 
 <div align="center">
 
