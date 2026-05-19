@@ -140,12 +140,10 @@ Engineered a custom date picker component **from scratch** with interactive cale
 <img style="vertical-align: middle; margin-top: -5px;" align="top" src="./assets/handshake.gif" width ="25"> Connect with me
 </h2>
 
+[![Gmail](https://img.shields.io/badge/gmail-%23d92a21.svg?&style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=saleemsifath@gmail.com&su=Hiring%20Inquiry&body=Hi%20Sifath%2C%0A%0AI%20came%20across%20your%20profile%20and%20would%20like%20to%20connect.)
+[![Github](https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sifathsaleem)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sifathsaleem/)
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)]()
-[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)]()
-[![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)]()
-[![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-%23ff813f.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)]()
+[![X](https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)]()
 
 <!-- <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sifathsaleem&show_icons=true&theme=tokyonight&hide_border=true&icon_color=cc3300&title_color=ff4500" />
