@@ -107,7 +107,7 @@
 <br>
 
 <h2 align="center">
-<img  style="vertical-align: middle;" align="absbottom" align="absmiddle" src="./assets/laptop.gif" width ="25"> Projects </h2>
+<img  style="vertical-align: middle;" align="absbottom" src="./assets/laptop.gif" width ="25"> Projects </h2>
 
 ### 🎬 Movie Finder App
 
