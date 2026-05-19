@@ -7,7 +7,7 @@
 ---
 <img align="right" width="300px" alt="man_coding" src="./assets/man_coding.gif"/>
 
-<h2 align="center">Frontend Developer | React JS | JavaScript | HTML & CSS | CS Student</h2>
+# <h2 align="center">Frontend Developer | React JS | JavaScript | HTML & CSS | CS Student</h2>
 
 <p  align="center">
   "A passionate and self-driven frontend developer with strong foundations in building responsive, interactive web applications. I enjoy turning ideas into real, working products and continuously improving my skills to align with modern web standards."
@@ -133,12 +133,11 @@ Engineered a custom date picker component **from scratch** with interactive cale
 [![GitHub](https://img.shields.io/badge/GitHub-062038?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sifathsaleem/Date-picker)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-1e90ff?style=for-the-badge&logo=netlify&logoColor=white)](https://datepicker-slm.netlify.app)
 
----
 
 <br>
 
 <h2 align="center">
-<img style="vertical-align: middle; margin-top: -5px;" align="top" src="./assets/handshake.gif" width ="25"> Connect with me
+<img align="top" src="./assets/handshake.gif" width ="25"> Connect with me
 </h2>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sifathsaleem/)
@@ -146,34 +145,9 @@ Engineered a custom date picker component **from scratch** with interactive cale
 [![Github](https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sifathsaleem)
 <!-- [![X](https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)]() -->
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sifathsaleem&show_icons=true&theme=tokyonight&hide_border=true&icon_color=cc3300&title_color=ff4500" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sifathsaleem&layout=compact&theme=tokyonight&hide_border=true&title_color=ff4500" />
-</p>
+<h2 align="center">
+<img align="top" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25xb3Z4cnpzOXR4cTlpZXU3amxwZnJ4OHp4c2oxb3RydXR1cnlwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8cVGMVFlrrDRfXmPBT/giphy.gif" width ="25"> Github Stats
+</h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sifathsaleem&theme=tokyonight&hide_border=true&ring=cc3300&fire=ff4500&currStreakLabel=ff4500" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="mailto:saleemsifath@gmail.com"><img src="https://img.shields.io/badge/Gmail-cc3300?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
-  <a href="https://linkedin.com/in/sifathsaleem"><img src="https://img.shields.io/badge/LinkedIn-1a0000?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
-  <a href="https://github.com/sifathsaleem"><img src="https://img.shields.io/badge/GitHub-3d0000?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc3300,50:3d0000,100:1a0000&height=100&section=footer" width="100%" />
-</p>
-
-<p align="center">
-  <strong>Turning &lt;code&gt; into experiences 🚀</strong>
-</p>
