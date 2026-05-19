@@ -152,6 +152,8 @@ Engineered a custom date picker component **from scratch** with interactive cale
 <img align="top" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25xb3Z4cnpzOXR4cTlpZXU3amxwZnJ4OHp4c2oxb3RydXR1cnlwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8cVGMVFlrrDRfXmPBT/giphy.gif" width ="25"> Github Stats
 </h2>
 
+<!-- https://next.ossinsight.io/widgets -->
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=99608582&image_size=auto&color_scheme=dark" width="700" height="auto">
