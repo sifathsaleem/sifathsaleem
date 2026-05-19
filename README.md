@@ -148,7 +148,7 @@ Engineered a custom date picker component **from scratch** with interactive cale
 <br>
 
 <h2 align="center">
-<img align="top" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25xb3Z4cnpzOXR4cTlpZXU3amxwZnJ4OHp4c2oxb3RydXR1cnlwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8cVGMVFlrrDRfXmPBT/giphy.gif" width ="25"> Github Stats
+<img align="top" src="./assets/bar_graph.gif" width ="25"> Github Stats
 </h2>
 
 <!-- https://next.ossinsight.io/widgets -->
