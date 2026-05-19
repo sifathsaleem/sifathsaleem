@@ -42,16 +42,6 @@
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="40"/><br>
-<sub>CSS</sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="40"/><br>
-<sub>HTML</sub>
-</td>
-
-<td align="center">
 <img src="https://skillicons.dev/icons?i=jquery" width="40"/><br>
 <sub>Jquery</sub>
 </td>
@@ -59,6 +49,16 @@
 <td align="center">
 <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>
 <sub>Tailwind</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="40"/><br>
+<sub>CSS</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="40"/><br>
+<sub>HTML</sub>
 </td>
 
 </tr>
