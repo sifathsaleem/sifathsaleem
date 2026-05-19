@@ -5,7 +5,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=500&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=React+Frontend+Developer.;Building+Modern+Web+Apps.;Computer+Science+Student.;Code.+Create.+Deploy.;I+build+experiences.;Always+learning.+Always+building." alt="Typing SVG" /></a></p>
 
 ---
-<img align="right" width="320px" alt="man_coding" src="./assets/man_coding.gif"/>
+<img align="right" width="330px" alt="man_coding" src="./assets/man_coding.gif"/>
 
 ### <p align="center" >Frontend Developer | React JS | JavaScript | HTML & CSS | CS Student</p>
 
