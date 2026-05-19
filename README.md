@@ -7,7 +7,7 @@
 ---
 <img align="right" width="330px" alt="man_coding" src="./assets/man_coding.gif"/>
 
-### Frontend Developer | React JS | JavaScript | HTML & CSS | CS Student
+### <p align="center" >Frontend Developer | React JS | JavaScript | HTML & CSS | CS Student</p>
 
 <p  align="center">
   "A passionate and self-driven frontend developer with strong foundations in building responsive, interactive web applications. I enjoy turning ideas into real, working products and continuously improving my skills to align with modern web standards."
