@@ -5,9 +5,9 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=500&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=React+Frontend+Developer.;Building+Modern+Web+Apps.;Computer+Science+Student.;Code.+Create.+Deploy.;I+build+experiences.;Always+learning.+Always+building." alt="Typing SVG" /></a></p>
 
 ---
-<img align="right" width="300px" alt="man_coding" src="./assets/man_coding.gif"/>
+<img align="right" width="320px" alt="man_coding" src="./assets/man_coding.gif"/>
 
-<h2 align="center">Frontend Developer | React JS | JavaScript | HTML & CSS | CS Student</h2>
+### Frontend Developer | React JS | JavaScript | HTML & CSS | CS Student
 
 <p  align="center">
   "A passionate and self-driven frontend developer with strong foundations in building responsive, interactive web applications. I enjoy turning ideas into real, working products and continuously improving my skills to align with modern web standards."
