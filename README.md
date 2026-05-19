@@ -5,6 +5,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=500&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=React+Frontend+Developer.;Building+Modern+Web+Apps.;Computer+Science+Student.;Code.+Create.+Deploy.;I+build+experiences.;Always+learning.+Always+building." alt="Typing SVG" /></a></p>
 
 ---
+
 <img align="right" width="330px" alt="man_coding" src="./assets/man_coding.gif"/>
 
 ### <p align="center" >Frontend Developer | React JS | JavaScript | HTML & CSS | CS Student</p>
@@ -133,7 +134,6 @@ Engineered a custom date picker component **from scratch** with interactive cale
 [![GitHub](https://img.shields.io/badge/GitHub-062038?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sifathsaleem/Date-picker)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-1e90ff?style=for-the-badge&logo=netlify&logoColor=white)](https://datepicker-slm.netlify.app)
 
-
 <br>
 
 <h2 align="center">
@@ -143,6 +143,7 @@ Engineered a custom date picker component **from scratch** with interactive cale
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sifathsaleem/)
 [![Gmail](https://img.shields.io/badge/gmail-%23d92a21.svg?&style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=saleemsifath@gmail.com&su=Hiring%20Inquiry&body=Hi%20Sifath%2C%0A%0AI%20came%20across%20your%20profile%20and%20would%20like%20to%20connect.)
 [![Github](https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sifathsaleem)
+
 <!-- [![X](https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)]() -->
 
 <br>
@@ -151,9 +152,11 @@ Engineered a custom date picker component **from scratch** with interactive cale
 <img align="top" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25xb3Z4cnpzOXR4cTlpZXU3amxwZnJ4OHp4c2oxb3RydXR1cnlwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8cVGMVFlrrDRfXmPBT/giphy.gif" width ="25"> Github Stats
 </h2>
 
+<p align="center">
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=99608582" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=99608582&image_size=auto&color_scheme=dark" width="700" height="auto">
     <img alt="Dashboard stats of @sifathsaleem" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=99608582&image_size=auto&color_scheme=light" width="700" height="auto">
   </picture>
 </a>
+</p>
