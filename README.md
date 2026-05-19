@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Focus-Building%20Projects-0a66c2?style=flat&logo=hammer&logoColor=white" />
 </p>
 
-<br>
+<br clear="both"/>
 
 <h2 align="center">
 <img style="vertical-align: middle; margin-top: -5px;" align="absmiddle" src="./assets/gear.gif" width ="35">Most Used Technologies
