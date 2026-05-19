@@ -141,14 +141,6 @@ Engineered a custom date picker component **from scratch** with interactive cale
 </h2>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sifathsaleem/)
-<a href="https://www.linkedin.com/in/sifathsaleem/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<p align="left">
-  <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"></a>
-</p>
-
 [![Gmail](https://img.shields.io/badge/gmail-%23d92a21.svg?&style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=saleemsifath@gmail.com&su=Hiring%20Inquiry&body=Hi%20Sifath%2C%0A%0AI%20came%20across%20your%20profile%20and%20would%20like%20to%20connect.)
 [![Github](https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sifathsaleem)
 [![X](https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/sifathsaleem)
