@@ -5,9 +5,9 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=500&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=React+Frontend+Developer.;Building+Modern+Web+Apps.;Computer+Science+Student.;Code.+Create.+Deploy.;I+build+experiences.;Always+learning.+Always+building." alt="Typing SVG" /></a></p>
 
 ---
-<img align="right" width="300px" alt="man_coding" src="./assets/man_coding.gif"/>
+<img align="right" width="330px" alt="man_coding" src="./assets/man_coding.gif"/>
 
-# <h2 align="center">Frontend Developer | React JS | JavaScript | HTML & CSS | CS Student</h2>
+### <p align="center" >Frontend Developer | React JS | JavaScript | HTML & CSS | CS Student</p>
 
 <p  align="center">
   "A passionate and self-driven frontend developer with strong foundations in building responsive, interactive web applications. I enjoy turning ideas into real, working products and continuously improving my skills to align with modern web standards."
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Focus-Building%20Projects-0a66c2?style=flat&logo=hammer&logoColor=white" />
 </p>
 
-<br>
+<br clear="both"/>
 
 <h2 align="center">
 <img style="vertical-align: middle; margin-top: -5px;" align="absmiddle" src="./assets/gear.gif" width ="35">Most Used Technologies
@@ -42,16 +42,6 @@
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="40"/><br>
-<sub>CSS</sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="40"/><br>
-<sub>HTML</sub>
-</td>
-
-<td align="center">
 <img src="https://skillicons.dev/icons?i=jquery" width="40"/><br>
 <sub>Jquery</sub>
 </td>
@@ -59,6 +49,16 @@
 <td align="center">
 <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>
 <sub>Tailwind</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="40"/><br>
+<sub>CSS</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="40"/><br>
+<sub>HTML</sub>
 </td>
 
 </tr>
