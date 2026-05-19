@@ -143,7 +143,7 @@ Engineered a custom date picker component **from scratch** with interactive cale
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sifathsaleem/)
 [![Gmail](https://img.shields.io/badge/gmail-%23d92a21.svg?&style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=saleemsifath@gmail.com&su=Hiring%20Inquiry&body=Hi%20Sifath%2C%0A%0AI%20came%20across%20your%20profile%20and%20would%20like%20to%20connect.)
 [![Github](https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sifathsaleem)
-[![X](https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)]()
+<!-- [![X](https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)]() -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sifathsaleem&show_icons=true&theme=tokyonight&hide_border=true&icon_color=cc3300&title_color=ff4500" />
