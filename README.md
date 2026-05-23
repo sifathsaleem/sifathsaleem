@@ -126,6 +126,14 @@ Developed an interactive typing speed test app with **real-time WPM calculation*
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-1e90ff?style=for-the-badge&logo=netlify&logoColor=white)](https://typing-speed-checker-slm.netlify.app)
 
 ---
+### 🤖 Social Media Post Generator
+
+Built 2 Telegram bots using Node.js that automate social media image generation for a Tamil news brand, reducing post creation time by 75% with Puppeteer-powered rendering.
+
+[![GitHub](https://img.shields.io/badge/GitHub-062038?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sifathsaleem/cvbot)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-1e90ff?style=for-the-badge&logo=netlify&logoColor=white)](https://t.me/ceylonv_bot)
+
+---
 
 ### 📅 Date Picker
 
