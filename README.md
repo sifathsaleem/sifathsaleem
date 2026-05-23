@@ -27,7 +27,7 @@
 <br clear="both"/>
 
 <h2 align="center">
-<img style="vertical-align: middle; margin-top: -5px;" align="absmiddle" src="./assets/gear.gif" width ="35">Most Used Technologies
+<img align="absmiddle" src="./assets/gear.gif" width ="35">Most Used Technologies
 </h2>
 
 <table align="center" border="0">
@@ -107,7 +107,7 @@
 <br>
 
 <h2 align="center">
-<img  style="vertical-align: middle;" align="absbottom" align="absmiddle" src="./assets/laptop.gif" width ="25"> Projects </h2>
+<img  style="vertical-align: middle;" align="absbottom" src="./assets/laptop.gif" width ="25"> Projects </h2>
 
 ### 🎬 Movie Finder App
 
